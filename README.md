@@ -1,6 +1,6 @@
 # fashion-mnist-classification
 
-* developed a deep learning model to classofy fashion-mnist images into 10 clothing categories using tensorflow keras
+* developed a deep learning model to classify fashion-mnist images into 10 clothing categories using tensorflow keras
 
 * desinged a Sequential neural network architecture with
 
